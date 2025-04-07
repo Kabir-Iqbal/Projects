@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* globals.css */
+.bg-custom {
+    background-image: url('/images/backgroundimg.jpeg');
+    background-size: cover;
+    background-position: center;
+    
+  }
+
+  .shop-bg-custom {
+    background-image: url('/images/shopbackground.jpeg');
+    background-size: cover;
+    background-position: center;
+    
+  }
